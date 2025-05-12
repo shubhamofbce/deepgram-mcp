@@ -3,7 +3,7 @@
 This is a Deepgram MCP (Modular Communication Protocol) server that integrates with Claude Desktop to provide real-time audio generation from text input. It leverages the Deepgram API for audio processing and plays back the generated audio within your MCP-compatible client.
 
 # Demo
-[![Watch the video](demo_thumbnail.png)](claude_deepgram_recording.mp4)
+[![Watch the video](demo_thumbnail.png)](https://youtu.be/DOaWAJMbw3o)
 
 
 ## Features
