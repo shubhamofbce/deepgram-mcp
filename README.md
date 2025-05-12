@@ -9,7 +9,7 @@ This is a Deepgram MCP (Modular Communication Protocol) server that integrates w
 ## Features
 
 - Converts text to audio using Deepgram
-- Plays audio in real-time through Claude MCP
+- Plays audio in real-time 
 - Easy to configure and run locally
 
 ---
@@ -107,12 +107,6 @@ deepgram-mcp/
 ├── pyproject.toml          # Dependency & package management
 └── README.md               # Documentation
 ```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
